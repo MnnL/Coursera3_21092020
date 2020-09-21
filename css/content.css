@@ -1,0 +1,36 @@
+* body {
+	background-color: gray;
+}
+
+.divh2 {
+  text-align: center;
+}
+.divElemt{
+  border: 1px solid red;
+  margin: 5px;
+  padding: 10px;
+  background-color: #cfd4ab;
+  color: black;
+}
+
+.collapse {
+	text-align: center;
+	 
+}
+
+
+
+.bg-dark{
+	 
+	  border: 1px solid black;
+	  
+}
+
+.text-white{
+	color: black;
+
+}
+
+.my-5{
+	color: white;
+}
